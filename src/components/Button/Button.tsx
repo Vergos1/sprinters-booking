@@ -1,11 +1,11 @@
 import React from "react";
-import s from "./Button.module.scss";
+import s from "./button.module.scss";
 import { Link } from "react-router-dom"; // If you're using React Router
 
 type ButtonVariant = "primary" | "secondary";
 
 interface ButtonProps {
-    onClick?: () => void;
+  onClick?: () => void;
   variant?: ButtonVariant;
   children: React.ReactNode;
   className?: string;
@@ -16,7 +16,7 @@ interface ButtonProps {
 }
 
 export const Button: React.FC<ButtonProps> = ({
-    onClick,
+  onClick,
   variant = "secondary",
   className,
   style,
