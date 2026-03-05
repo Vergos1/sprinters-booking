@@ -12,7 +12,7 @@ Bus ticket booking and parcel tracking app for Ukraine–Europe routes.
 
 Sprinters Booking is a web application for booking bus tickets and tracking parcels on Ukraine–Europe routes. The app allows passengers to quickly book a seat online and track the real-time location of their bus or parcel.
 
-🔗 **Live:** [sprinters-blond.vercel.app](https://sprinters-blond.vercel.app)
+🔗 **Live:** [sprinters](https://sprinters-blond.vercel.app)
 
 ## Pages
 
